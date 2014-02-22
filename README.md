@@ -1,6 +1,6 @@
 The World Wind Java SDK provides a starting point for developing a NASA World Wind-enabled application for an Eclipse-based environment.
 
-If you are attempting to use World Wind in an RCP Plugin, visit the [world-wind-java-sdk-rcp](https://github.com/unofficial-nasa/world-wind-java-sdk-rcp) project.
+:warning: If you are attempting to use World Wind in an RCP Plugin, visit the [world-wind-java-sdk-rcp](https://github.com/unofficial-nasa/world-wind-java-sdk-rcp) project.
 
 # About NASA World Wind
 NASA's World Wind SDK provides the ability to display and interact with geographic data.
@@ -27,6 +27,8 @@ panel.add(wwd, BorderLayout.CENTER);
 ```
 
 You can view/download a sample application from the [world-wind-java-sdk-sample](https://github.com/unofficial-nasa/world-wind-java-sdk-sample) project.
+
+![](https://raw2.github.com/unofficial-nasa/world-wind-java-sdk/gh-pages/SampleWorldWindImage.png)
 
 # Why Use this Cloned Repository?
  * Eclipse-Ready Project
